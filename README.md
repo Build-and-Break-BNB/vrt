@@ -50,12 +50,12 @@ That's it.
 **1. Download the script**
 
 ```zsh
-curl -o ~/.zsh/vrt.zsh https://raw.githubusercontent.com/YOUR_USERNAME/vrt/main/vite-react-tw.zsh
+curl -o ~/.zsh/vrt.zsh https://raw.githubusercontent.com/Build-and-Break-BNB/vrt/main/vite-react-tw.zsh
 ```
 
 > Or clone the repo and copy manually:
 > ```zsh
-> git clone https://github.com/YOUR_USERNAME/vrt.git
+> git clone https://github.com/Build-and-Break-BNB/vrt.git
 > mkdir -p ~/.zsh && cp vrt/vite-react-tw.zsh ~/.zsh/vrt.zsh
 > ```
 
